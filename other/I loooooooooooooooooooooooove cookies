@@ -1,1 +1,5 @@
-print (I love cookies so much, i love them more than your mom!)
+#include <stdio.h>
+
+int main() {
+    printf("Peter, the horse is here\n");
+}
