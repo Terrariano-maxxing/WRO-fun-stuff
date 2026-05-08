@@ -1,0 +1,5 @@
+#include <stdio.h>
+
+int main() {
+    // Print Hello, World! to the console
+    printf("Pude haber practicado codigo de verdad en vez de batearla, lol\n");
