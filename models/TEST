@@ -1,1 +1,5 @@
-print (I love WRO!)
+#include <stdio.h>
+
+int main() {
+    printf("Change the world, my final message, goodbye\n");
+}
